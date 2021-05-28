@@ -9,7 +9,7 @@ categories: "형성평가"
 
 
 ### 01. 사주보기
-![saju](assets/images/사주.png)
+![사주](assets/images/사주.png)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -30,7 +30,7 @@ int main(void)
 
 
 ### 02. 3개의 터널 통과
-![tunnul](assets/images/터널.png)
+![터널](assets/images/터널.png)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -51,7 +51,7 @@ int main(void)
 
 
 ### 03. 이 달은 며칠까지 있을까?
-![callenderl](assets/images/이달.png)
+![이달](assets/images/이달.png)
 ~~~c
 #include <stdio.h>
 int main(void)
