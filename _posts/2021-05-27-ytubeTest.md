@@ -1,5 +1,8 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기"
+title: "Garden In The Air"
 ---
 {% include video id="-duHnqCYzh2w" provider="youtube" %}
+
+
+{% include video id="-ddu8Lo4c4jU" provider="youtube" %}
