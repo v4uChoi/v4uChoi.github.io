@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dive in to You"
+title: "Dive Into You"
 ---
 
 {% include video id="72m5H6nEwSc" provider="youtube" %}
