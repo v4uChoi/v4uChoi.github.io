@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "개념"
-    url: https://mmistakes.github.io/minimal-mistakes/categories/
+    url: https://mmistakes.github.io/v4uChoi/categories/
   - title: "연도"
-    url: https://mmistakes.github.io/minimal-mistakes/posts/
+    url: https://mmistakes.github.io/v4uChoi/posts/
   - title: "소개"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://mmistakes.github.io/v4uChoi/about/
   # - title: "Sitemap"
   #   url: /sitemap/
