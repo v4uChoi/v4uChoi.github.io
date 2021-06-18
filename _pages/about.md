@@ -1,5 +1,6 @@
 ---
-title: "코멘트 뱅크(Comment Bank) 소개" permalink: /about/
+title: "코멘트 뱅크(Comment Bank) 소개" 
+permalink: https://mmistakes.github.io/minimal-mistakes/about/
 layout: single 
 ---
 
